@@ -1,6 +1,6 @@
 [submodule "Receive_subsystem"]
 	path = Receive_subsystem
-	url = C:\\Users\\User\\OneDrive\\dev\\VHDL\\Ethernet_switch\\Receive_subsystem
+url=https://github.com/TomWoo/Receive_subsystem
 [submodule "Transmit_subsystem"]
 	path = Transmit_subsystem
-	url = C:\\Users\\User\\OneDrive\\dev\\VHDL\\Ethernet_switch\\Transmit_subsystem
+url=https://github.com/TomWoo/Transmit_subsystem
